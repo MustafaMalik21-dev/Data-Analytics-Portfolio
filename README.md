@@ -26,9 +26,22 @@ Interactive Excel dashboards built with Power Pivot, Power Query, pivot tables a
 
 ---
 
+## 🗄️ SQL Projects
+Six end-to-end MySQL analyses of large UK public datasets (up to 17.75 million rows), each with a setup script, documented queries and a full written report. **[See all SQL projects →](SQL-Projects)**
+
+| Project | Dataset | Headline finding |
+|---|---|---|
+| [London Fire Brigade](SQL-Projects/Project%201%20-%20London%20Fire%20Brigade) | 522k incident and mobilisation records | False alarms: 93,736 call-outs costing £46.2m |
+| [Housing Affordability](SQL-Projects/Project%202%20-%20Housing%20Affordability) | 1.45m Land Registry sales | Starter homes from £96k (County Durham) to £388k (London) |
+| [School Performance](SQL-Projects/Project%203%20-%20School%20Performance) | DfE KS4 2024/25 + GIAS | Disadvantaged pupils average 34.9 in Attainment 8 v 50.4 for others |
+| [Food Hygiene](SQL-Projects/Project%204%20-%20Food%20Hygiene) | 600k+ FSA ratings | Independent takeaways have only 52–59% rated 5 |
+| [Prescribing Data](SQL-Projects/Project%205%20-%20Prescribing%20Data) | 17.75m NHS prescription lines | 43 chemicals make up half of the £904.5m monthly spend |
+| [Air Quality](SQL-Projects/Project%206%20-%20Air%20Quality) | 4.52m hourly Defra readings | 81% of sites exceed the WHO NO2 guideline |
+
+---
+
 ## 🔜 Coming Soon
 
-- **SQL**: analysis projects with schemas and commented queries
 - **Power BI**: interactive reports
 - **Python**: Jupyter notebooks for data cleaning, analysis and visualisation
 
